@@ -1,0 +1,25 @@
+.color {
+    &-primary {
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    &-secondary {
+        color: #CD001A; // Cherry Red 
+    }
+}
+
+.bg {
+    &-primary {
+        color: rgba(0, 0, 0, 0.7);
+    }
+    
+    &-secondary {
+        background-color: #CD001A; // Cherry Red 
+    }
+}
+
+footer {
+    .nav-link {
+        font-size: 32px;
+    }
+}
